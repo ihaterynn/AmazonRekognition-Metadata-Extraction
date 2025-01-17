@@ -1,0 +1,1645 @@
+[
+    {
+        "file_name": "GN BLOOM 82090-4.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.9702377319336
+            },
+            {
+                "description": "Home Decor",
+                "score": 99.42435455322266
+            },
+            {
+                "description": "Linen",
+                "score": 99.42435455322266
+            },
+            {
+                "description": "Plywood",
+                "score": 99.12140655517578
+            },
+            {
+                "description": "Wood",
+                "score": 99.12140655517578
+            },
+            {
+                "description": "Cardboard",
+                "score": 69.03315734863281
+            },
+            {
+                "description": "Canvas",
+                "score": 57.295555114746094
+            },
+            {
+                "description": "Paper",
+                "score": 56.61070251464844
+            },
+            {
+                "description": "Page",
+                "score": 55.980960845947266
+            },
+            {
+                "description": "Text",
+                "score": 55.980960845947266
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffebcd",
+                "RGB": "(255, 235, 205)",
+                "Percentage": 100.0,
+                "CSSColor": "blanchedalmond",
+                "SimplifiedColor": "brown"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 96.60498046875,
+            "Sharpness": 4.6709418296813965,
+            "Contrast": 1.7096624374389648
+        }
+    },
+    {
+        "file_name": "GN BLOOM 82090-6.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.09308624267578
+            },
+            {
+                "description": "Paper",
+                "score": 79.80707550048828
+            },
+            {
+                "description": "Pattern",
+                "score": 56.84318542480469
+            },
+            {
+                "description": "Canvas",
+                "score": 55.5387077331543
+            },
+            {
+                "description": "Home Decor",
+                "score": 55.28696060180664
+            },
+            {
+                "description": "Linen",
+                "score": 55.28696060180664
+            },
+            {
+                "description": "Gray",
+                "score": 55.18749237060547
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 99.04762268066406,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#afeeee",
+                "RGB": "(175, 238, 238)",
+                "Percentage": 0.9523809552192688,
+                "CSSColor": "paleturquoise",
+                "SimplifiedColor": "cyan"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 94.91959381103516,
+            "Sharpness": 4.6012678146362305,
+            "Contrast": 1.5728131532669067
+        }
+    },
+    {
+        "file_name": "GN BLOOM 82095-2.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 99.61636352539062
+            },
+            {
+                "description": "Art",
+                "score": 97.13529205322266
+            },
+            {
+                "description": "Floral Design",
+                "score": 97.13529205322266
+            },
+            {
+                "description": "Graphics",
+                "score": 97.13529205322266
+            },
+            {
+                "description": "Texture",
+                "score": 94.3400650024414
+            },
+            {
+                "description": "Plant",
+                "score": 89.20677185058594
+            },
+            {
+                "description": "Flower",
+                "score": 87.04865264892578
+            },
+            {
+                "description": "Paper",
+                "score": 67.26777648925781
+            },
+            {
+                "description": "Purple",
+                "score": 55.76816177368164
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 55.91966247558594,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            },
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 20.507400512695312,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#8fbc8f",
+                "RGB": "(143, 188, 143)",
+                "Percentage": 8.139534950256348,
+                "CSSColor": "darkseagreen",
+                "SimplifiedColor": "green"
+            },
+            {
+                "HexCode": "#dda0dd",
+                "RGB": "(221, 160, 221)",
+                "Percentage": 4.016913414001465,
+                "CSSColor": "plum",
+                "SimplifiedColor": "purple"
+            },
+            {
+                "HexCode": "#ffe4e1",
+                "RGB": "(255, 228, 225)",
+                "Percentage": 3.9112050533294678,
+                "CSSColor": "mistyrose",
+                "SimplifiedColor": "white"
+            },
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 3.2769556045532227,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 2.8541226387023926,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#eee8aa",
+                "RGB": "(238, 232, 170)",
+                "Percentage": 1.3742071390151978,
+                "CSSColor": "palegoldenrod",
+                "SimplifiedColor": "yellow"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 99.80736541748047,
+            "Sharpness": 82.76437377929688,
+            "Contrast": 37.89513397216797
+        }
+    },
+    {
+        "file_name": "GN CAR 81330-2.jpg",
+        "labels": [
+            {
+                "description": "Plywood",
+                "score": 99.99990844726562
+            },
+            {
+                "description": "Wood",
+                "score": 99.99990844726562
+            },
+            {
+                "description": "Texture",
+                "score": 99.99453735351562
+            },
+            {
+                "description": "Home Decor",
+                "score": 86.697021484375
+            },
+            {
+                "description": "Linen",
+                "score": 86.697021484375
+            },
+            {
+                "description": "Floor",
+                "score": 82.7131118774414
+            },
+            {
+                "description": "White Board",
+                "score": 64.81806945800781
+            },
+            {
+                "description": "Flooring",
+                "score": 57.527862548828125
+            },
+            {
+                "description": "Building",
+                "score": 56.50619125366211
+            },
+            {
+                "description": "Wall",
+                "score": 56.50619125366211
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 71.18643951416016,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#ffebcd",
+                "RGB": "(255, 235, 205)",
+                "Percentage": 27.11864471435547,
+                "CSSColor": "blanchedalmond",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 1.6949152946472168,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 97.14550018310547,
+            "Sharpness": 15.514388084411621,
+            "Contrast": 7.483022689819336
+        }
+    },
+    {
+        "file_name": "GN CAR 81333-5.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.9999771118164
+            },
+            {
+                "description": "Floor",
+                "score": 99.25784301757812
+            },
+            {
+                "description": "Flooring",
+                "score": 97.04710388183594
+            },
+            {
+                "description": "Building",
+                "score": 80.27800750732422
+            },
+            {
+                "description": "Wall",
+                "score": 80.27800750732422
+            },
+            {
+                "description": "Limestone",
+                "score": 57.89710235595703
+            },
+            {
+                "description": "Wood",
+                "score": 57.66960906982422
+            },
+            {
+                "description": "Plywood",
+                "score": 56.370121002197266
+            },
+            {
+                "description": "Tile",
+                "score": 56.29143142700195
+            },
+            {
+                "description": "Paper",
+                "score": 55.21535110473633
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#deb887",
+                "RGB": "(222, 184, 135)",
+                "Percentage": 54.80769348144531,
+                "CSSColor": "burlywood",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#d2b48c",
+                "RGB": "(210, 180, 140)",
+                "Percentage": 44.71154022216797,
+                "CSSColor": "tan",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#bdb76b",
+                "RGB": "(189, 183, 107)",
+                "Percentage": 0.48076921701431274,
+                "CSSColor": "darkkhaki",
+                "SimplifiedColor": "yellow"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 87.41036224365234,
+            "Sharpness": 21.31393051147461,
+            "Contrast": 10.246984481811523
+        }
+    },
+    {
+        "file_name": "GN CAR 81334-2.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.9813232421875
+            },
+            {
+                "description": "Pattern",
+                "score": 99.88568878173828
+            },
+            {
+                "description": "Art",
+                "score": 99.81720733642578
+            },
+            {
+                "description": "Floral Design",
+                "score": 99.81720733642578
+            },
+            {
+                "description": "Graphics",
+                "score": 99.81720733642578
+            },
+            {
+                "description": "Home Decor",
+                "score": 97.69888305664062
+            },
+            {
+                "description": "Linen",
+                "score": 57.37434005737305
+            },
+            {
+                "description": "Tile",
+                "score": 56.556724548339844
+            },
+            {
+                "description": "Paper",
+                "score": 56.53132247924805
+            },
+            {
+                "description": "Plywood",
+                "score": 55.54438400268555
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffebcd",
+                "RGB": "(255, 235, 205)",
+                "Percentage": 86.66666412353516,
+                "CSSColor": "blanchedalmond",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#ffdead",
+                "RGB": "(255, 222, 173)",
+                "Percentage": 6.666666507720947,
+                "CSSColor": "navajowhite",
+                "SimplifiedColor": "yellow"
+            },
+            {
+                "HexCode": "#deb887",
+                "RGB": "(222, 184, 135)",
+                "Percentage": 4.44444465637207,
+                "CSSColor": "burlywood",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 2.222222328186035,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 96.10438537597656,
+            "Sharpness": 24.05373764038086,
+            "Contrast": 11.599442481994629
+        }
+    },
+    {
+        "file_name": "GN CAR 81334-4.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 99.98748016357422
+            },
+            {
+                "description": "Texture",
+                "score": 99.96358489990234
+            },
+            {
+                "description": "Art",
+                "score": 98.20541381835938
+            },
+            {
+                "description": "Floral Design",
+                "score": 98.20541381835938
+            },
+            {
+                "description": "Graphics",
+                "score": 98.20541381835938
+            },
+            {
+                "description": "Floor",
+                "score": 94.96653747558594
+            },
+            {
+                "description": "Home Decor",
+                "score": 87.92955780029297
+            },
+            {
+                "description": "Flooring",
+                "score": 57.40643310546875
+            },
+            {
+                "description": "Tile",
+                "score": 56.14155578613281
+            },
+            {
+                "description": "Velvet",
+                "score": 55.70518493652344
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#808080",
+                "RGB": "(128, 128, 128)",
+                "Percentage": 77.82101440429688,
+                "CSSColor": "gray",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#696969",
+                "RGB": "(105, 105, 105)",
+                "Percentage": 11.673151969909668,
+                "CSSColor": "dimgrey",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#d2b48c",
+                "RGB": "(210, 180, 140)",
+                "Percentage": 6.614786148071289,
+                "CSSColor": "tan",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#cd853f",
+                "RGB": "(205, 133, 63)",
+                "Percentage": 3.5019454956054688,
+                "CSSColor": "peru",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#2f4f4f",
+                "RGB": "(47, 79, 79)",
+                "Percentage": 0.38910505175590515,
+                "CSSColor": "darkslategrey",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 72.90990447998047,
+            "Sharpness": 76.60701751708984,
+            "Contrast": 31.746212005615234
+        }
+    },
+    {
+        "file_name": "GN CAR 81338-2.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.99913024902344
+            },
+            {
+                "description": "Home Decor",
+                "score": 99.69847869873047
+            },
+            {
+                "description": "Linen",
+                "score": 98.98957824707031
+            },
+            {
+                "description": "Plant",
+                "score": 96.75914001464844
+            },
+            {
+                "description": "Plywood",
+                "score": 91.02497863769531
+            },
+            {
+                "description": "Wood",
+                "score": 91.02497863769531
+            },
+            {
+                "description": "Pattern",
+                "score": 79.45562744140625
+            },
+            {
+                "description": "Floral Design",
+                "score": 57.73101043701172
+            },
+            {
+                "description": "Graphics",
+                "score": 57.73101043701172
+            },
+            {
+                "description": "Rug",
+                "score": 56.318939208984375
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 71.79486846923828,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#ffebcd",
+                "RGB": "(255, 235, 205)",
+                "Percentage": 17.94871711730957,
+                "CSSColor": "blanchedalmond",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 10.256410598754883,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 89.67132568359375,
+            "Sharpness": 29.717363357543945,
+            "Contrast": 20.45888900756836
+        }
+    },
+    {
+        "file_name": "HERA6 6089-2.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 99.98849487304688
+            },
+            {
+                "description": "Art",
+                "score": 99.93749237060547
+            },
+            {
+                "description": "Floral Design",
+                "score": 99.93749237060547
+            },
+            {
+                "description": "Graphics",
+                "score": 99.93749237060547
+            },
+            {
+                "description": "Home Decor",
+                "score": 99.64141082763672
+            },
+            {
+                "description": "Plant",
+                "score": 96.64344024658203
+            },
+            {
+                "description": "Texture",
+                "score": 93.39944458007812
+            },
+            {
+                "description": "Embroidery",
+                "score": 81.9946060180664
+            },
+            {
+                "description": "Rug",
+                "score": 57.44692611694336
+            },
+            {
+                "description": "Tapestry",
+                "score": 57.355987548828125
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 62.15227127075195,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 16.032211303710938,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#deb887",
+                "RGB": "(222, 184, 135)",
+                "Percentage": 9.956075668334961,
+                "CSSColor": "burlywood",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#5f9ea0",
+                "RGB": "(95, 158, 160)",
+                "Percentage": 4.172767162322998,
+                "CSSColor": "cadetblue",
+                "SimplifiedColor": "blue"
+            },
+            {
+                "HexCode": "#808080",
+                "RGB": "(128, 128, 128)",
+                "Percentage": 3.3674962520599365,
+                "CSSColor": "gray",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#bc8f8f",
+                "RGB": "(188, 143, 143)",
+                "Percentage": 1.5373352766036987,
+                "CSSColor": "rosybrown",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#ffebcd",
+                "RGB": "(255, 235, 205)",
+                "Percentage": 1.5373352766036987,
+                "CSSColor": "blanchedalmond",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#8fbc8f",
+                "RGB": "(143, 188, 143)",
+                "Percentage": 1.2445094585418701,
+                "CSSColor": "darkseagreen",
+                "SimplifiedColor": "green"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 88.5785140991211,
+            "Sharpness": 48.97237777709961,
+            "Contrast": 28.155447006225586
+        }
+    },
+    {
+        "file_name": "HERA6 6092-3.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.9975357055664
+            },
+            {
+                "description": "Home Decor",
+                "score": 99.97576904296875
+            },
+            {
+                "description": "Linen",
+                "score": 99.97576904296875
+            },
+            {
+                "description": "Plywood",
+                "score": 94.80826568603516
+            },
+            {
+                "description": "Wood",
+                "score": 94.80826568603516
+            },
+            {
+                "description": "Cardboard",
+                "score": 56.24089050292969
+            },
+            {
+                "description": "Paper",
+                "score": 55.99720001220703
+            },
+            {
+                "description": "Page",
+                "score": 55.638973236083984
+            },
+            {
+                "description": "Text",
+                "score": 55.638973236083984
+            },
+            {
+                "description": "Pattern",
+                "score": 55.33367919921875
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#d8bfd8",
+                "RGB": "(216, 191, 216)",
+                "Percentage": 90.90908813476562,
+                "CSSColor": "thistle",
+                "SimplifiedColor": "purple"
+            },
+            {
+                "HexCode": "#ffb6c1",
+                "RGB": "(255, 182, 193)",
+                "Percentage": 9.090909004211426,
+                "CSSColor": "lightpink",
+                "SimplifiedColor": "pink"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 90.04560089111328,
+            "Sharpness": 8.482291221618652,
+            "Contrast": 3.0292294025421143
+        }
+    },
+    {
+        "file_name": "HERA6 6094-2.jpg",
+        "labels": [
+            {
+                "description": "Wood",
+                "score": 100.0
+            },
+            {
+                "description": "Plywood",
+                "score": 99.99998474121094
+            },
+            {
+                "description": "Texture",
+                "score": 99.9932861328125
+            },
+            {
+                "description": "Floor",
+                "score": 99.66881561279297
+            },
+            {
+                "description": "Flooring",
+                "score": 99.48091125488281
+            },
+            {
+                "description": "Interior Design",
+                "score": 99.44562530517578
+            },
+            {
+                "description": "Home Decor",
+                "score": 82.63841247558594
+            },
+            {
+                "description": "Linen",
+                "score": 66.45823669433594
+            },
+            {
+                "description": "Hardwood",
+                "score": 56.47544860839844
+            },
+            {
+                "description": "Wall",
+                "score": 55.98088073730469
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 75.18247985839844,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 23.357664108276367,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 1.0948904752731323,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 0.36496350169181824,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 91.38955688476562,
+            "Sharpness": 39.67845916748047,
+            "Contrast": 18.50882911682129
+        }
+    },
+    {
+        "file_name": "HERA6 6100-1.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 94.76782989501953
+            },
+            {
+                "description": "Bronze",
+                "score": 93.95242309570312
+            },
+            {
+                "description": "Art",
+                "score": 90.71446990966797
+            },
+            {
+                "description": "Graphics",
+                "score": 89.23446655273438
+            },
+            {
+                "description": "Pottery",
+                "score": 89.13372802734375
+            },
+            {
+                "description": "Floral Design",
+                "score": 84.20121002197266
+            },
+            {
+                "description": "Porcelain",
+                "score": 67.6806869506836
+            },
+            {
+                "description": "Chandelier",
+                "score": 66.55500793457031
+            },
+            {
+                "description": "Collage",
+                "score": 56.955020904541016
+            },
+            {
+                "description": "Jar",
+                "score": 56.922183990478516
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 34.5025520324707,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            },
+            {
+                "HexCode": "#808080",
+                "RGB": "(128, 128, 128)",
+                "Percentage": 26.913265228271484,
+                "CSSColor": "gray",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 16.900510787963867,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 7.780612468719482,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 7.0790815353393555,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#2f4f4f",
+                "RGB": "(47, 79, 79)",
+                "Percentage": 4.974489688873291,
+                "CSSColor": "darkslategrey",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#ffebcd",
+                "RGB": "(255, 235, 205)",
+                "Percentage": 0.956632673740387,
+                "CSSColor": "blanchedalmond",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#ffe4e1",
+                "RGB": "(255, 228, 225)",
+                "Percentage": 0.7653061151504517,
+                "CSSColor": "mistyrose",
+                "SimplifiedColor": "white"
+            },
+            {
+                "HexCode": "#e9967a",
+                "RGB": "(233, 150, 122)",
+                "Percentage": 0.12755101919174194,
+                "CSSColor": "darksalmon",
+                "SimplifiedColor": "red"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 90.09176635742188,
+            "Sharpness": 85.58162689208984,
+            "Contrast": 80.44963073730469
+        }
+    },
+    {
+        "file_name": "HERA6 6101-1.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 99.97783660888672
+            },
+            {
+                "description": "Texture",
+                "score": 95.1985855102539
+            },
+            {
+                "description": "Home Decor",
+                "score": 87.68268585205078
+            },
+            {
+                "description": "Linen",
+                "score": 56.968963623046875
+            },
+            {
+                "description": "Art",
+                "score": 56.500465393066406
+            },
+            {
+                "description": "Floral Design",
+                "score": 56.500465393066406
+            },
+            {
+                "description": "Graphics",
+                "score": 56.500465393066406
+            },
+            {
+                "description": "Paper",
+                "score": 55.79676818847656
+            },
+            {
+                "description": "Polka Dot",
+                "score": 55.494327545166016
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 89.1089096069336,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            },
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 7.920792102813721,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 2.97029709815979,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 100.0,
+            "Sharpness": 3.0598723888397217,
+            "Contrast": 14.474349975585938
+        }
+    },
+    {
+        "file_name": "HERA6 6101-3.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.97803497314453
+            },
+            {
+                "description": "Pattern",
+                "score": 99.9748306274414
+            },
+            {
+                "description": "Home Decor",
+                "score": 98.1186294555664
+            },
+            {
+                "description": "Paper",
+                "score": 57.526893615722656
+            },
+            {
+                "description": "Linen",
+                "score": 57.4573974609375
+            },
+            {
+                "description": "Rug",
+                "score": 55.411922454833984
+            },
+            {
+                "description": "Polka Dot",
+                "score": 55.40129089355469
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 85.29412078857422,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 7.352941036224365,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#afeeee",
+                "RGB": "(175, 238, 238)",
+                "Percentage": 7.352941036224365,
+                "CSSColor": "paleturquoise",
+                "SimplifiedColor": "cyan"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 95.90837097167969,
+            "Sharpness": 12.315654754638672,
+            "Contrast": 8.778965950012207
+        }
+    },
+    {
+        "file_name": "JOINUS 8606-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 76.5898666381836
+            },
+            {
+                "description": "Paper",
+                "score": 60.37858200073242
+            },
+            {
+                "description": "Home Decor",
+                "score": 56.41188049316406
+            },
+            {
+                "description": "Linen",
+                "score": 56.41188049316406
+            },
+            {
+                "description": "Page",
+                "score": 56.381778717041016
+            },
+            {
+                "description": "Text",
+                "score": 56.381778717041016
+            },
+            {
+                "description": "Canvas",
+                "score": 55.979530334472656
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 100.0,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 100.0,
+            "Sharpness": 4.302779674530029,
+            "Contrast": 1.3642456531524658
+        }
+    },
+    {
+        "file_name": "JOINUS 8608-1.jpg",
+        "labels": [
+            {
+                "description": "Home Decor",
+                "score": 99.99998474121094
+            },
+            {
+                "description": "Linen",
+                "score": 99.99998474121094
+            },
+            {
+                "description": "Canvas",
+                "score": 99.99903106689453
+            },
+            {
+                "description": "Texture",
+                "score": 99.97974395751953
+            },
+            {
+                "description": "Page",
+                "score": 56.252159118652344
+            },
+            {
+                "description": "Text",
+                "score": 56.252159118652344
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 100.0,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 96.735595703125,
+            "Sharpness": 8.901897430419922,
+            "Contrast": 3.866748094558716
+        }
+    },
+    {
+        "file_name": "JOINUS 8612-2.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.92341613769531
+            },
+            {
+                "description": "Home Decor",
+                "score": 99.85404205322266
+            },
+            {
+                "description": "Linen",
+                "score": 99.85404205322266
+            },
+            {
+                "description": "Plywood",
+                "score": 99.4705581665039
+            },
+            {
+                "description": "Wood",
+                "score": 99.4705581665039
+            },
+            {
+                "description": "Canvas",
+                "score": 55.5783576965332
+            },
+            {
+                "description": "Architecture",
+                "score": 55.20328903198242
+            },
+            {
+                "description": "Building",
+                "score": 55.20328903198242
+            },
+            {
+                "description": "Wall",
+                "score": 55.20328903198242
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 50.0,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 50.0,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 93.11476135253906,
+            "Sharpness": 9.511465072631836,
+            "Contrast": 3.998662233352661
+        }
+    },
+    {
+        "file_name": "JOINUS 8617-2.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 79.5660171508789
+            },
+            {
+                "description": "Texture",
+                "score": 57.37839889526367
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 100.0,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 96.41305541992188,
+            "Sharpness": 7.238074779510498,
+            "Contrast": 3.2445931434631348
+        }
+    },
+    {
+        "file_name": "JOINUS 8617-7.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 67.88163757324219
+            },
+            {
+                "description": "Texture",
+                "score": 57.46722412109375
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 98.14814758300781,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 1.8518518209457397,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 88.137939453125,
+            "Sharpness": 6.754141330718994,
+            "Contrast": 2.644340991973877
+        }
+    },
+    {
+        "file_name": "JOINUS 8621-2.jpg",
+        "labels": [
+            {
+                "description": "Pattern",
+                "score": 96.6245346069336
+            },
+            {
+                "description": "Texture",
+                "score": 96.58779907226562
+            },
+            {
+                "description": "Tile",
+                "score": 87.60944366455078
+            },
+            {
+                "description": "Architecture",
+                "score": 69.3231201171875
+            },
+            {
+                "description": "Building",
+                "score": 69.3231201171875
+            },
+            {
+                "description": "Wall",
+                "score": 69.3231201171875
+            },
+            {
+                "description": "Paper",
+                "score": 69.25257110595703
+            },
+            {
+                "description": "Home Decor",
+                "score": 56.49547576904297
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 98.70130157470703,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 1.298701286315918,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 97.96591186523438,
+            "Sharpness": 28.54936408996582,
+            "Contrast": 11.156193733215332
+        }
+    },
+    {
+        "file_name": "JOINUS 8625-1.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.99984741210938
+            },
+            {
+                "description": "Home Decor",
+                "score": 92.80403900146484
+            },
+            {
+                "description": "Architecture",
+                "score": 68.16686248779297
+            },
+            {
+                "description": "Building",
+                "score": 68.16686248779297
+            },
+            {
+                "description": "Wall",
+                "score": 68.16686248779297
+            },
+            {
+                "description": "Floor",
+                "score": 56.53121566772461
+            },
+            {
+                "description": "Limestone",
+                "score": 56.27362823486328
+            },
+            {
+                "description": "Construction",
+                "score": 55.715171813964844
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#c0c0c0",
+                "RGB": "(192, 192, 192)",
+                "Percentage": 62.96296310424805,
+                "CSSColor": "silver",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a9a9a9",
+                "RGB": "(169, 169, 169)",
+                "Percentage": 37.03703689575195,
+                "CSSColor": "darkgrey",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 87.9057846069336,
+            "Sharpness": 29.747695922851562,
+            "Contrast": 13.344758987426758
+        }
+    },
+    {
+        "file_name": "JOINUS 8626-3.jpg",
+        "labels": [
+            {
+                "description": "Wood",
+                "score": 100.0
+            },
+            {
+                "description": "Hardwood",
+                "score": 99.99980926513672
+            },
+            {
+                "description": "Floor",
+                "score": 99.99970245361328
+            },
+            {
+                "description": "Flooring",
+                "score": 99.99913024902344
+            },
+            {
+                "description": "Indoors",
+                "score": 99.9903335571289
+            },
+            {
+                "description": "Interior Design",
+                "score": 99.9903335571289
+            },
+            {
+                "description": "Texture",
+                "score": 99.94332122802734
+            },
+            {
+                "description": "Stained Wood",
+                "score": 78.41297912597656
+            },
+            {
+                "description": "Plywood",
+                "score": 57.68761444091797
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#808080",
+                "RGB": "(128, 128, 128)",
+                "Percentage": 59.88700485229492,
+                "CSSColor": "gray",
+                "SimplifiedColor": "grey"
+            },
+            {
+                "HexCode": "#a0522d",
+                "RGB": "(160, 82, 45)",
+                "Percentage": 24.293785095214844,
+                "CSSColor": "sienna",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#bc8f8f",
+                "RGB": "(188, 143, 143)",
+                "Percentage": 15.254237174987793,
+                "CSSColor": "rosybrown",
+                "SimplifiedColor": "brown"
+            },
+            {
+                "HexCode": "#2f4f4f",
+                "RGB": "(47, 79, 79)",
+                "Percentage": 0.5649717450141907,
+                "CSSColor": "darkslategrey",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 68.4411849975586,
+            "Sharpness": 30.51744842529297,
+            "Contrast": 19.768394470214844
+        }
+    },
+    {
+        "file_name": "JOINUS 8627-3.jpg",
+        "labels": [
+            {
+                "description": "Texture",
+                "score": 99.98015594482422
+            },
+            {
+                "description": "Home Decor",
+                "score": 99.97493743896484
+            },
+            {
+                "description": "Linen",
+                "score": 99.97493743896484
+            },
+            {
+                "description": "Canvas",
+                "score": 99.9659194946289
+            },
+            {
+                "description": "Clothing",
+                "score": 99.18373107910156
+            },
+            {
+                "description": "Khaki",
+                "score": 99.18373107910156
+            },
+            {
+                "description": "White Board",
+                "score": 71.13430786132812
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#808080",
+                "RGB": "(128, 128, 128)",
+                "Percentage": 100.0,
+                "CSSColor": "gray",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 77.7127685546875,
+            "Sharpness": 8.765624046325684,
+            "Contrast": 3.708859443664551
+        }
+    },
+    {
+        "file_name": "JOINUS WH501-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 71.37481689453125
+            },
+            {
+                "description": "Text",
+                "score": 64.79313659667969
+            },
+            {
+                "description": "Cutlery",
+                "score": 57.80833435058594
+            },
+            {
+                "description": "Page",
+                "score": 56.702308654785156
+            },
+            {
+                "description": "White Board",
+                "score": 55.738555908203125
+            },
+            {
+                "description": "Paper",
+                "score": 55.264060974121094
+            },
+            {
+                "description": "Fork",
+                "score": 55.1717414855957
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 100.0,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 100.0,
+            "Sharpness": 3.012608289718628,
+            "Contrast": 1.6622250080108643
+        }
+    },
+    {
+        "file_name": "JOINUS WH503-1.jpg",
+        "labels": [
+            {
+                "description": "White",
+                "score": 74.14125061035156
+            },
+            {
+                "description": "Paper",
+                "score": 57.73137664794922
+            },
+            {
+                "description": "Text",
+                "score": 57.66951370239258
+            },
+            {
+                "description": "Texture",
+                "score": 56.23583221435547
+            }
+        ],
+        "dominant_colors": [
+            {
+                "HexCode": "#ffffff",
+                "RGB": "(255, 255, 255)",
+                "Percentage": 98.63013458251953,
+                "CSSColor": "white",
+                "SimplifiedColor": "white"
+            },
+            {
+                "HexCode": "#dcdcdc",
+                "RGB": "(220, 220, 220)",
+                "Percentage": 1.3698630332946777,
+                "CSSColor": "gainsboro",
+                "SimplifiedColor": "grey"
+            }
+        ],
+        "quality_metrics": {
+            "Brightness": 100.0,
+            "Sharpness": 9.044026374816895,
+            "Contrast": 3.8523623943328857
+        }
+    }
+]
